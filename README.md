@@ -1,2 +1,3 @@
 # Project Real World Asset
-   ( RCA - Property Apartemen )
+   * RECOIN ASSET (RCA) = Main Token  For Tokenisasi Property Apartemen
+   * RECOIN RENCT (RCR) = RCA of Part  For Tokenisasi Rent of Value Property Apartemen
